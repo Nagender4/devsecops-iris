@@ -3,6 +3,8 @@
 #
 [![codecov](https://codecov.io/gh/Nagender4/devsecops-iris/branch/master/graph/badge.svg?token=QRYOCRFAG3)](https://codecov.io/gh/Nagender4/devsecops-iris)
 
+![GitHub repo size](https://img.shields.io/github/repo-size/nagender4/devsecops-iris?style=social) ![GitHub language count](https://img.shields.io/github/languages/count/nagender4/devsecops-iris)
+
 This repository contains code which demonstrates Dev-Sec-Ops using a `FastAPI` application which predicts the flower class using the IRIS dataset (https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
 
 ## Running Instructions
